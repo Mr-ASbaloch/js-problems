@@ -13,12 +13,8 @@
 // Output :
 
 // "Date1 = Date2"
-
 // "Date1 > Date2"
-
 // "Date2 > Date1"
-
-
 //  get current date 
 
 let currDate=new Date();
@@ -49,3 +45,5 @@ else{
 }
 
 
+
+  
